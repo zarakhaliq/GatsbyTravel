@@ -1,5 +1,4 @@
 import React, { useState } from "react"
-
 import Header from "./Header"
 import "./layout.css"
 import { GlobalStyle } from "./styles/GlobalStyles"

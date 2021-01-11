@@ -1,12 +1,11 @@
 import React from "react"
-import { Link } from "gatsby"
 import Hero from "../components/Hero"
 import Trips from "../components/Trips"
 import Testimonials from "../components/Testimonials"
 import Stats from "../components/Stats"
 import Email from "../components/Email"
 
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 
 const IndexPage = () => (
   <Layout>
