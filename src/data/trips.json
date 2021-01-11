@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Woman Soaking on the Swimming Pool",
+    "name": "Bali",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Gray and Brown Boat Travelling on Man-made River",
+    "name": "Venice",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Eiffel Tower",
+    "name": "Eiffel Tower",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Desert, Egypt",
+    "name": "Desert, Egypt",
+    "button": "View Destination"
+  }
+]
