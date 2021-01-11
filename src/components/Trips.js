@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 import { Button } from "./Button"
-import { Link } from "gatsby"
+
 import { ImLocation } from "react-icons/im"
 
 const Trips = ({ heading }) => {

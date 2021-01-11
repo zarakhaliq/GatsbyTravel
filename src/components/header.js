@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 
 import styled from "styled-components"
-import React, { useState, useEffect } from "react"
+
 import { FaBars } from "react-icons/fa"
 import { Button } from "./Button"
 
